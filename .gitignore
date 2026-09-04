@@ -1,0 +1,24 @@
+# Never publish development/source/translation material from this release-only repository.
+*.lua
+*.py
+*.cpp
+*.c
+*.h
+*.hpp
+*.cs
+*.csv
+*.tsv
+*.dat
+*.pdb
+*.obj
+*.lib
+*.exp
+Payload/
+src/
+installer/
+launcher/
+tests/
+tools/
+translation_source/
+references/
+build/
