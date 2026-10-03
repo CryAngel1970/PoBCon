@@ -6,10 +6,12 @@ Path of Building Korean Converter for Path of Exile 1 / Path of Exile 2.
 
 ## 다운로드
 
-실행 파일은 GitHub **Releases**에서 배포합니다.
+실행 파일은 GitHub **릴리즈**에서 배포합니다.
 
 ## 안내
 
 - Path of Building 본체는 이 저장소에 포함하지 않습니다.
 - 번역 원본/개발 소스는 공개하지 않습니다.
 - F2: 한글/영문 표시 전환
+- 컨트롤키+휠마우스 : POB UI 크기 조절
+- POB 설정에서 무기세트1,2 색약자 색상 변경
